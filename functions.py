@@ -58,3 +58,5 @@ def deleteStudent(student_id):
     print("Student Removed")
     cur.close()
     conn.close()
+
+# Put code here
