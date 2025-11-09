@@ -3,9 +3,9 @@ import datetime
 
 # Information needed to connect to the database
 login = {
-    "dbname": "assignment3",
-    "user": "postgres",
-    "password": "password"
+    "dbname": "ENTER DATABASE NAME",
+    "user": "ENTER USERNAME",
+    "password": "ENTER PASSWORD"
 }
 
 # Connect to the Database
@@ -60,3 +60,4 @@ def deleteStudent(student_id):
     conn.close()
 
 # Put code here
+
