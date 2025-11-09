@@ -12,3 +12,6 @@ All tests/code should be added at the end of the file.
 Running:
 The following command should be used in a terminal, while in the designated folder with the functions.py file,to run the commands you enter:
 python functions.py
+
+Video Demonstration:
+https://youtu.be/7cnVnFRl-Fw
